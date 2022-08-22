@@ -1,0 +1,6 @@
+Git branch " "
+Git checkout -b " "
+Git checkout
+Git add .
+Git push
+Git commit -m " "
