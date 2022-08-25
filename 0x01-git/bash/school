@@ -1,1 +1,2 @@
-school is so cool
+#!/bin/bash
+echo "school is so cool!"
